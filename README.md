@@ -56,13 +56,14 @@ SQL was used to perform business-oriented data analysis, including:
 * Revenue and performance analysis
 
 ## 📈 Power BI Dashboard
+![Power BI Dashboard](screenshots/Power BI dashboard.png)
 
 Power BI was used to create an interactive dashboard containing key performance indicators, charts, trends, and business insights.
 
 The dashboard helps users understand hospitality performance through interactive visualizations and filters.
 
 ## 📊 Tableau Dashboard
-
+![Tableau Dashboard](screenshots/Tableau dashboard.png)
 Tableau was used to create additional interactive visualizations for analyzing hospitality trends and comparing business performance across different dimensions.
 
 ## 💡 Recommendations
